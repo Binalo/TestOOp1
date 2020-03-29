@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestOOP1(animals)/1.0.0": {
+        "runtime": {
+          "TestOOP1(animals).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestOOP1(animals)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
